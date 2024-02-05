@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { MenuComponent } from './components/menu/menu.component';
+import { MenuComponent } from './shared/menu/menu.component';
 import { IndexComponent } from './components/index/index.component';
 import { StartComponent } from './components/start/start.component';
 import { AboutmeComponent } from './components/aboutme/aboutme.component';
