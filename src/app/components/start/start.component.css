@@ -37,3 +37,19 @@
   height: 100%;
   border-radius: 50% 30% 50% 30%;
 }
+
+/*Celulares*/
+@media(max-width: 450px){
+  .container{
+    display: block;
+  }
+}
+/*Tablets*/
+@media(min-width: 768px) and (max-width: 1024px){
+
+}
+
+/*Orientação Orisontal*/
+@media(orientation:landscape){
+
+}
